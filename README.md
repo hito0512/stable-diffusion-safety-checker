@@ -3,6 +3,9 @@ tags:
 - clip
 ---
 
+[location]：./stable-diffusion-webui/CompVis/stable-diffusion-safety-checker
+将仓库的文件以及release中的文件都放在该目录下
+
 # Model Card for stable-diffusion-safety-checker
  
 # Model Details
